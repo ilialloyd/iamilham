@@ -6,10 +6,15 @@ I am Ilham from Azerbaijan, living in Canada. I have a year of experience in Jav
 
 💻 Tech Stack:
 Backend:  Java / Spring / SpringBoot /REST/Microservices
+
 Database: Hibernate / H2/ MySQL/ PostgreSQL/ MongoDB
+
 FrontEnd:  JS/ JQuery/ Angular/ HTML/ CSS/ Bootstrap
+
 Security: Spring Security/ JWT/ oauth2
+
 Tools: Eclipse/ IntelliJ/ VsCode/ Postman
+
 
 - 🔭 I’m currently working on this page. 
 
