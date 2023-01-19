@@ -20,9 +20,16 @@ Projects:
 - 📥 Microservices demonsstration [Movie-Catalog-Microservices](https://github.com/ilialloyd/Movie-Catalog-Microservices) 
 - 📲 Program is checking if our server is up or not - [Server Checker](https://github.com/ilialloyd/server-checker)-Tech: Spring Boot, REST, Angular, Typescript
 - 💻Local CMD chat program [Local Chat Room App- With CMD](https://github.com/ilialloyd/ChatRoom_TCP) - Tech: Core Java, Java.IO, Socket
-- 🕸️ To see my Github profile: [Ilham Mammadli](https://github.com/ilialloyd)
 
 
-- 🕸️ To see my Github profile: [Ilham Mammadli](https://github.com/ilialloyd)
+Learnings:
+- 🌱 I’m currently learning **Microservices in Debth**
+- 📚 I’m currently reading **Clean Code**
+
+
+
+My Contacts:
+- 🕸️ Check my [Github](https://github.com/ilialloyd)
+- 🕸️ Check my [StackOverFlow](https://stackoverflow.com/users/18263761/ilia)
 - 📫 How to reach me **by.memmedli@gmail.com**
 
