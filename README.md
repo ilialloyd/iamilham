@@ -1,28 +1,28 @@
-### Hi there 👋,  
-#### Java Developer with Angular Experience
-![Java Developer with Angular Experience](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I am Ilham from Azerbaijan, living in Canada. I have a year of experience in Java and its frameworks, and also I have experience with Angular and frontend technologies.
+Hi!,👋 I am Ilham from Azerbaijan, living in Canada. I have a year of experience in Java. Also I have experience with Angular as frontend technology.
 
-💻 Tech Stack:
+💻 Tech I work with:
 
-Backend:  Java / Spring / SpringBoot /REST/Microservices
+Backend:  Java / Spring / SpringBoot / REST/ Microservices
 
-Database: Hibernate / H2/ MySQL/ PostgreSQL/ MongoDB
+Database: Hibernate / H2 / MySQL / PostgreSQL / MongoDB
 
-FrontEnd:  JS/ JQuery/ Angular/ HTML/ CSS/ Bootstrap
+FrontEnd:  JS / JQuery / Angular / HTML / CSS / Bootstrap
 
-Security: Spring Security/ JWT/ oauth2
+Security: Spring Security / JWT / oauth2
 
-Tools: Eclipse/ IntelliJ/ VsCode/ Postman
+Tools: Eclipse / IntelliJ / VsCode / Postman
+
+Projects:
+- [E-commerce project](https://github.com/ilialloyd/Ecommerce-project) - Tech: Spring Boot, MySQL, REST, Angular, Typescript. Stripe payment system gonna be added as well
+- [Stock project](https://github.com/ilialloyd/stockProject). This project will help to keep stocks with help of frontend Angular
+- 💡 Web Todo-app. It has all CRUD operations - [Todo-Webapp](https://github.com/ilialloyd/to-do-webapp) -Tech: Spring Boot, H2, REST, Angular, Typescript
+- 📥 Microservices demonsstration [Movie-Catalog-Microservices](https://github.com/ilialloyd/Movie-Catalog-Microservices) 
+- 📲 Program is checking if our server is up or not - [Server Checker](https://github.com/ilialloyd/server-checker)-Tech: Spring Boot, REST, Angular, Typescript
+- 💻Local CMD chat program [Local Chat Room App- With CMD](https://github.com/ilialloyd/ChatRoom_TCP) - Tech: Core Java, Java.IO, Socket
+- 🕸️ To see my Github profile: [Ilham Mammadli](https://github.com/ilialloyd)
 
 
-- 👨‍💻 Currently working on my [E-commerce project](https://github.com/ilialloyd/Ecommerce-project) 
-
-- 🕸️ I’m currently learning Microservices in depth 
-
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ilialloyd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bymemmedli/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/ilia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](by.memmedli@gmail.com)  
+- 🕸️ To see my Github profile: [Ilham Mammadli](https://github.com/ilialloyd)
+- 📫 How to reach me **by.memmedli@gmail.com**
 
